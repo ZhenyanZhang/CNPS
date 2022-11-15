@@ -1,1 +1,20 @@
-#codes and demos for Machine learning
+#Codes here were used for machine learning with random forest algorithm.
+
+#Machine learning model building and assessing
+#Codes for machine learning model building and assessing with the accuracy
+
+#ROC and Importance
+#Codes for ROC plot visualization to confirm the performance of the final model
+#Codes for determing the relative importance of each factors
+
+#Confusion matrix
+#Codes for confusion matrix to confirm the performance of the final model
+
+#Prediction based on the best model
+#Codes for prediction based on the best model
+
+#Prediction based on the best model_list
+#Codes for prediction based on the best model with a series of datasets (which can be placed in input path and the results of prediction will generated in the output path one by one).
+
+#Demo
+#Demos are provided here after necessary modification
