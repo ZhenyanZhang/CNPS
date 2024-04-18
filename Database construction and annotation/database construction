@@ -1,5 +1,4 @@
 #CD-HIT
-cd-hit -i CNPSK_all.fasta -o CNPSK.prot.fa -c 0.8
+cd-hit -i marker_nucl.fasta -o marker_nucl.cdhit.fa -c 1.0
 #database construction
-diamond makedb --in CNPSK.prot.fa --db CNPSK.prot.fa
-bwa index CNPSK.nucl.fa
+bwa index marker_nucl.cdhit.fa
